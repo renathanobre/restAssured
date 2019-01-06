@@ -24,3 +24,5 @@ http://api.walmartlabs.com/v1/search?query=ipod&format=json&apiKey=75e3u4sgb2khg
 10) About JSONassert https://github.com/skyscreamer/JSONassert
 
 11) https://developers.zamzar.com/docs
+
+12) https://developer.paypal.com/docs/api/payments/
