@@ -1,5 +1,5 @@
 /**
- * 
+ * Sending SOAP Requests in Rest-Assured
  */
 package com.soapws.examples;
 

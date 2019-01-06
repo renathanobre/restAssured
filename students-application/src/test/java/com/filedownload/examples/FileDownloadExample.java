@@ -1,3 +1,7 @@
+/**
+ * File Downloads in REST Assured
+ */
+
 package com.filedownload.examples;
 
 import static io.restassured.RestAssured.given;

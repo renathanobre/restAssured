@@ -1,5 +1,5 @@
 /**
- * 
+ * Root Path in REST Assured
  */
 package com.rootpath.examples;
 

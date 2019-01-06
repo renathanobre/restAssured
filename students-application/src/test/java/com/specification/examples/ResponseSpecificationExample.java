@@ -1,5 +1,5 @@
 /**
- * 
+ * Response Specification
  */
 package com.specification.examples;
 

@@ -1,5 +1,5 @@
 /**
- * 
+ * Soft Assertion
  */
 package com.softassert.examples;
 

@@ -1,5 +1,5 @@
 /**
- * 
+ * JSONAssert Library for asserting on complete JSON Responses
  */
 package com.jsonassert.examples;
 

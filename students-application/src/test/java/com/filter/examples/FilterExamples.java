@@ -1,5 +1,5 @@
 /**
- * 
+ * Filters in Rest-Assured
  */
 package com.filter.examples;
 

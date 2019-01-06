@@ -1,5 +1,5 @@
 /**
- * 
+ * Extract data from xml response using XML Path
  */
 package com.xmlpath.examples;
 

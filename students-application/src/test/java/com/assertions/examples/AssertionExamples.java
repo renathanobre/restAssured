@@ -1,5 +1,5 @@
 /**
- * 
+ * Assertions in REST Assured using Hamcrest Library
  */
 package com.assertions.examples;
 

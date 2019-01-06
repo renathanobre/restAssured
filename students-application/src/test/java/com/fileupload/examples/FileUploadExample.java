@@ -1,3 +1,6 @@
+/**
+ * Basic Authentication with File Uploads using REST Assured
+ */
 package com.fileupload.examples;
 
 import static io.restassured.RestAssured.given;

@@ -1,5 +1,5 @@
 /**
- * 
+ * Logging Response Data in Rest Assured
  */
 package com.student.loggingexamples;
 

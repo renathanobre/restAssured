@@ -1,3 +1,6 @@
+/**
+ * Checking Response Time
+ */
 package com.checkresponsetime.exemples;
 import static io.restassured.RestAssured.given;
 

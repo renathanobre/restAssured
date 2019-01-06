@@ -1,5 +1,5 @@
 /**
- * 
+ * Extract data from Json response using JSONPath
  */
 package com.jsonpath.examples;
 
