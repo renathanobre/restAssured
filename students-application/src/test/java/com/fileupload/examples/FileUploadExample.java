@@ -19,7 +19,7 @@ public class FileUploadExample {
 	 */
 	@Test
 	public void uploadFileExample(){
-		String apiKey = "";
+		String apiKey = "09f511fbc5d3a5a579a87b9a9f14bf826265b1b3";
 
 		File inputFile = new File(System.getProperty("user.dir")+ File.separator+"dancing_banana.gif");
 		System.out.println(inputFile.length());
