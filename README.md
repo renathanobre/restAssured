@@ -1,4 +1,5 @@
-# rest-assured
+# my rest-assured project
+![rest-assured-logo-green](https://user-images.githubusercontent.com/23301330/54575383-2462bb00-49b1-11e9-996b-c4e205a39e23.png)
 
 ***IMPORTANT***
 
