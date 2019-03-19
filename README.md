@@ -7,9 +7,7 @@
 >3) >> java -jar rest.jar --server.port=8085
 >4) open browser and type http://localhost:8085/student/list
 
-# other options with parameters: 
-
-http://localhost:8085/student/list?programme=Financial%20Analysis&limit=1
+- **other options with parameters**: http://localhost:8085/student/list?programme=Financial%20Analysis&limit=1
 
 >5) API Key: 75e3u4sgb2khg673cbv2gjup
 
