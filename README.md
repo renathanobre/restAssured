@@ -4,7 +4,7 @@
 
 >1) save rest.jar 
 >2) open prompt access directory where jar was saved
->3) >> java -jar rest.jar --server.port=8085
+>3) ```java -jar rest.jar --server.port=8085```
 >4) open browser and type http://localhost:8085/student/list
 
 - **other options with parameters**: http://localhost:8085/student/list?programme=Financial%20Analysis&limit=1
@@ -26,3 +26,7 @@ http://api.walmartlabs.com/v1/search?query=ipod&format=json&apiKey=75e3u4sgb2khg
 >11) https://developers.zamzar.com/docs
 
 >12) https://developer.paypal.com/docs/api/payments/
+
+
+ 
+###### Writer: *Renata Nobre Vieira*.
