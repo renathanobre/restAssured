@@ -4,8 +4,8 @@
 ***IMPORTANT NOTES***
 
 >1) save rest.jar 
->2) open prompt access directory where jar was saved
->3) ```java -jar rest.jar --server.port=8085```
+>2) open prompt, access directory where jar was saved
+>3) type command line  ```java -jar rest.jar --server.port=8085```
 >4) open browser and type http://localhost:8085/student/list
 
 - **other options with parameters**: http://localhost:8085/student/list?programme=Financial%20Analysis&limit=1
